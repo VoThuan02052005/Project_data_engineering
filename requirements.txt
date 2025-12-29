@@ -1,0 +1,6 @@
+bs4
+selenium
+Pyyaml
+numpy
+matplotlib
+pandas
